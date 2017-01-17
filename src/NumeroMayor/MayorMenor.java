@@ -5,6 +5,8 @@
  */
 package NumeroMayor;
 
+import java.util.Scanner;
+
 /**
  *
  * @author PabloJavier
@@ -15,6 +17,10 @@ public class MayorMenor {
         int[] lstNumeros = {1, 5, 40, 0, 45, 323, 524, 124, 76};
         int numMayor = lstNumeros[0];
         int numMenor = lstNumeros[0];
+        
+   
+        
+        
         //numero mayor
 //        for (int i = 0; i < lstNumeros.length; i++) {
 //            if (numMayor < lstNumeros[i]) {
